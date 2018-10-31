@@ -1,0 +1,14 @@
+{
+  "name": "sample_wasm",
+  "private": true,
+  "description": "wasmのサンプル",
+  "main": "test.js",
+  "scripts": {
+    "open": "http-server -o"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
